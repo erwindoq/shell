@@ -1,2 +1,4 @@
-# shell
-Shell mini, untuk keperluan belajar defacing. Ini hanya digunakan untuk keperluan belajar. Tindakan penyalahgunaan dari script ini bukan tanggung jawab kami.
+# PHP Shell Script
+
+## TLDR;
+PHP Shell Script ini berguna untuk melakukan pentest terhadap aplikasi web berbasis PHP dengan database MySQL
